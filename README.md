@@ -1,4 +1,4 @@
-# My AutoPano
+# Parking Valet
 
 Course Homework for RBE550 - Motion Planning (Fall 2022)
 
